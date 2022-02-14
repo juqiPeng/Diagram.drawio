@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T08:03:16.321Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Yh0KbJ9hQQWNqYtjQJab" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T08:07:13.489Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="GcydHMtCHaafg_skcrhy" version="16.4.7" type="github">
   <diagram id="N28FcG6H1VBP1NtABqoi" name="Page-1">
     <mxGraphModel dx="1422" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,6 +90,12 @@
         </mxCell>
         <mxCell id="qJ4JjLRaJb5K1KTcW3Pz-35" value="&lt;code&gt;.notify&lt;br&gt;&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dae8fc;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1875" y="300" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ4JjLRaJb5K1KTcW3Pz-36" value="&lt;code&gt;.test:code:&lt;br&gt;&lt;code&gt;python manage.py test&lt;/code&gt;&lt;br&gt;&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dae8fc;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ4JjLRaJb5K1KTcW3Pz-37" value="&lt;pre class=&quot;code highlight&quot; lang=&quot;yaml&quot;&gt;&lt;span id=&quot;LC45&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;master&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span id=&quot;LC46&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;merge_requests&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span id=&quot;LC47&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;tags&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;/pre&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
